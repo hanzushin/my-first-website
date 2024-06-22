@@ -1,0 +1,10 @@
+<!Doctype>
+<html>
+	<head>
+	<title>My Awesome Website</title>
+	</head>
+	<body>
+	<h1>This is header</h1>
+	<p>This is the first paragraph.</p>
+	</body>
+</html>
